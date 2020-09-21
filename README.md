@@ -20,4 +20,6 @@ Material y ejemplos Maixduino
 Configuración inicial (https://maixpy.sipeed.com/en/get_started/get_hardware.html
 - INstalar Driver -> Instalar drivers USB https://www.ftdichip.com/Drivers/D2XX.htm  (Available as a setup executable)
 - INstalación ultima firmaware MaixPY: https://dl.sipeed.com/MAIX/MaixPy/release/master/maixpy_v0.5.0_221_g6460c58 
-- 
+- Flashear el modelo en la direccion 0300000 -> lo hace automaticamente desde Kflash y no interfiere con el firmaware
+- Cargar en MaixPY el script y subirlo. -> 
+Debería funcionar 
