@@ -12,3 +12,6 @@ Información relacionada con el desarrollo de las placas Maix
 - MaixPy documentation: https://maixpy.sipeed.com/en/
 # Ejemplos
 https://courses.cs.washington.edu/courses/cse475/19au/labs/yolo2_tutorial.html
+
+Material y ejemplos Maixduino
+http://acoptex.com/project/9956/basics-project-083d-sipeed-maixduino-kit-for-risc-v-ai-and-iot-at-acoptexcom/#sthash.oauYEKNW.dpbs
