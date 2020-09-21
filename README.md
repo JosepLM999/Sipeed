@@ -7,6 +7,7 @@ Información relacionada con el desarrollo de las placas Maix
 - Github: https://github.com/sipeed/ 
 - Instrucciones para nuevo aprendizaje y obtener nuevos modelos desde su web: https://www.maixhub.com/index/mtrain/help.html
 - MaixPy documentation: https://maixpy.sipeed.com/en/
+- Mobilenets abstract: https://arxiv.org/pdf/1704.04861.pdf
 # Entornos de trabajo IDE
 - MaixPy documentation: https://maixpy.sipeed.com/en/
 # Ejemplos
