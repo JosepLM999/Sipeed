@@ -9,3 +9,5 @@ Información relacionada con el desarrollo de las placas Maix
 - MaixPy documentation: https://maixpy.sipeed.com/en/
 # Entornos de trabajo IDE
 - MaixPy documentation: https://maixpy.sipeed.com/en/
+# Ejemplos
+https://courses.cs.washington.edu/courses/cse475/19au/labs/yolo2_tutorial.html
