@@ -19,5 +19,5 @@ Material y ejemplos Maixduino
 
 Configuración inicial (https://maixpy.sipeed.com/en/get_started/get_hardware.html
 - INstalar Driver -> Instalar drivers USB https://www.ftdichip.com/Drivers/D2XX.htm  (Available as a setup executable)
-- INstalación ultima firmaware MaixPY: https://dl.sipeed.com/MAIX/MaixPy/release/master/maixpy_bdbaa03  ( maixpy_bdbaa03_with_lvgl.bin)
+- INstalación ultima firmaware MaixPY: https://dl.sipeed.com/MAIX/MaixPy/release/master/maixpy_v0.5.0_221_g6460c58 
 - 
