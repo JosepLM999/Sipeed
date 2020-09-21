@@ -16,3 +16,8 @@ Información relacionada con el desarrollo de las placas Maix
 
 Material y ejemplos Maixduino
 - http://acoptex.com/project/9956/basics-project-083d-sipeed-maixduino-kit-for-risc-v-ai-and-iot-at-acoptexcom/#sthash.oauYEKNW.dpbs
+
+Configuración inicial (https://maixpy.sipeed.com/en/get_started/get_hardware.html
+- INstalar Driver -> Instalar drivers USB https://www.ftdichip.com/Drivers/D2XX.htm  (Available as a setup executable)
+- INstalación ultima firmaware MaixPY: https://dl.sipeed.com/MAIX/MaixPy/release/master/maixpy_bdbaa03  ( maixpy_bdbaa03_with_lvgl.bin)
+- 
