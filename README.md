@@ -1,6 +1,6 @@
 # Sipeed
 Información relacionada con el desarrollo de las placas Maix
-# Enlaces oficiales
+# References
 - Sipeed Blog: https://blog.sipeed.com/p/1338.html
 - Modelos creados por tereceros que pueden bajarse: https://www.maixhub.com/
 - Recursos desarrolladores: https://wiki.sipeed.com/
