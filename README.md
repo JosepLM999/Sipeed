@@ -12,6 +12,7 @@ Información relacionada con el desarrollo de las placas Maix
 - MaixPy documentation: https://maixpy.sipeed.com/en/
 - Micropyhton: http://docs.micropython.org/en/latest/reference/index.html
 # Ejemplos
+- Scrips de ejemplo para MaixPY https://github.com/sipeed/MaixPy_scripts
 - https://courses.cs.washington.edu/courses/cse475/19au/labs/yolo2_tutorial.html
 
 Material y ejemplos Maixduino
