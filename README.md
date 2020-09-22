@@ -26,6 +26,9 @@ Configuración inicial (https://maixpy.sipeed.com/en/get_started/get_hardware.ht
 - Para bajarse modelos de ejemplo de https://www.maixhub.com/. previamente deberá flashearse un fichero bin que se obtiene de la misma web para obtener la Key de la placa que luego se entra en la web y de esta forma se activa el download del ejemplo
 Debería funcionar 
 
+ENTRENAMIENTO
+- https://en.bbs.sipeed.com/t/topic/682
+
 Otros Recursos
 - From Google (anaconda): https://colab.research.google.com/drive/1VcSTUc8ws6az5sV_e_kGdP7fNs2QKg_t
 - https://colab.research.google.com/github/AIWintermuteAI/aXeleRate/blob/master/resources/aXeleRate_pascal20_detector.ipynb?authuser=1
