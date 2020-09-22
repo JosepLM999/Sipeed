@@ -23,6 +23,7 @@ Configuración inicial (https://maixpy.sipeed.com/en/get_started/get_hardware.ht
 - INstalación ultima firmaware MaixPY: https://dl.sipeed.com/MAIX/MaixPy/release/master/maixpy_v0.5.0_221_g6460c58 
 - Flashear el modelo en la direccion 0300000 -> lo hace automaticamente desde Kflash y no interfiere con el firmaware
 - Cargar en MaixPY el script y subirlo. -> 
+- Para bajarse modelos de ejemplo de https://www.maixhub.com/. previamente deberá flashearse un fichero bin que se obtiene de la misma web para obtener la Key de la placa que luego se entra en la web y de esta forma se activa el download del ejemplo
 Debería funcionar 
 
 Otros Recursos
