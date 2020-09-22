@@ -27,3 +27,4 @@ Debería funcionar
 
 Otros Recursos
 - From Google (anaconda): https://colab.research.google.com/drive/1VcSTUc8ws6az5sV_e_kGdP7fNs2QKg_t
+- https://colab.research.google.com/github/AIWintermuteAI/aXeleRate/blob/master/resources/aXeleRate_pascal20_detector.ipynb?authuser=1
