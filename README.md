@@ -24,3 +24,6 @@ Configuración inicial (https://maixpy.sipeed.com/en/get_started/get_hardware.ht
 - Flashear el modelo en la direccion 0300000 -> lo hace automaticamente desde Kflash y no interfiere con el firmaware
 - Cargar en MaixPY el script y subirlo. -> 
 Debería funcionar 
+
+Otros Recursos
+- From Google (anaconda): https://colab.research.google.com/drive/1VcSTUc8ws6az5sV_e_kGdP7fNs2QKg_t
