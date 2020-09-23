@@ -20,6 +20,25 @@ Features
 - Support MaixPy IDE, Arduino IDE, OpenMV IDE, and PlatformIO IDE
 - Support Tiny-Yolo, Mobilenet and TensorFlow Lite for deep learning
 
+Sipeed Maixduino specifications:
+
+AI Module – Sipeed M1 with Kendryte K210 dual-core RISC-V processor @ 600 MHz, KPU Convolutional Neural Network (CNN) hardware accelerator, APU audio hardware accelerator, 8 MB general purpose SRAM including 5.9MB usable as AI SRAM memory
+Wireless Module – Espressif Systems ESP32-WROOM-32 with dual-core ESP32 Xtensa LX6 processor, 2.4GHz 802.11.b/g/n WiFi 4,  and Bluetooth 4.2 LE connectivity
+Storage – microSD card slot
+Camera I/F – 24-pin DVP camera connector
+Display I/F – 24-pin LCD connector for 8-bit MCU LCD display
+Audio – Built-in MEMS microphone; TM8211 I2S audio DAC, 3W power amplifier, 1.25mm pitch speaker connector
+USB – 1x USB 2.0 Device type C for power and programming via dual channel CH522 chip to support for both K210 and ESP32
+Expansion – Arduino UNO compatible headers with digital I/Os / PWM, I2C, UART,  6x analog inputs, and power signals
+Misc – Boot & reset buttons
+Power Supply
+Input
+6 to 12VDC via power barrel jack
+5V via USB-C port
+Output – 5V DC up to 1.2A
+Dimensions – Arduino UNO form factor
+Temperature Range – -30°C to 85°C
+
 MaixPy ported MicroPython to K210 (a 64-bit dual-core RISC-V CPU with hardware FPU and convolution accelerator). A project that supports MCU routine operations and integrates machine vision and microphone arrays to quickly develop intelligent applications in the AIOT field that are extremely cost effective and practical.
 MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
 MicroPython makes programming on K210 hardware easier, the code is open source and can be found here.
