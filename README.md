@@ -18,6 +18,7 @@ TUTORIALS
 # Ejemplos
 - Scripts de ejemplo para MaixPY https://github.com/sipeed/MaixPy_scripts
 - https://courses.cs.washington.edu/courses/cse475/19au/labs/yolo2_tutorial.html
+- Re-Learns: https://www.instructables.com/id/Transfer-Learning-With-Sipeed-MaiX-and-Arduino-IDE/
 
 Material y ejemplos Maixduino
 - http://acoptex.com/project/9956/basics-project-083d-sipeed-maixduino-kit-for-risc-v-ai-and-iot-at-acoptexcom/#sthash.oauYEKNW.dpbs
