@@ -9,6 +9,9 @@ Información relacionada con el desarrollo de las placas Maix
 - MaixPy documentation: https://maixpy.sipeed.com/en/
 - Mobilenets abstract: https://arxiv.org/pdf/1704.04861.pdf
 - Foro: https://en.bbs.sipeed.com/top/yearly
+TUTORIALS
+- Tutorial: Run Yolo2 on Sipeed Maix Bit :https://courses.cs.washington.edu/courses/cse475/19au/labs/yolo2_tutorial.html
+
 # Entornos de trabajo IDE
 - MaixPy documentation: https://maixpy.sipeed.com/en/
 - Micropyhton: http://docs.micropython.org/en/latest/reference/index.html
