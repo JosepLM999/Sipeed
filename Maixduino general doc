@@ -1,0 +1,30 @@
+http://acoptex.com/project/11703/basics-project-083f-sipeed-maixduino-board-using-mycropython-at-acoptexcom/#sthash.Y89J35Wn.dpbs
+
+Seeed Studio Sipeed Maixduino Kit for RISC-V AI + IoT includes the RISC-V 64 development board based on the MAIX Module and is ideal for AI + IoT applications. 
+Maixduino was designed in an Arduino Uno form factor, different from other Sipeed MAIX development boards. The Maixduino features an ESP32 module on board together with 
+the MAIX AI module.
+
+Features
+- CPU: RISC-V Dual Core 64bit, with FPU; 400MHz neural network processor
+- QVGA@60FPS/VGA@30FPS image identification
+- Onboard ESP32 module support 2.4G 802.11.b/g/n and Bluetooth 4.2
+- Arduin o Uno form factor, Arduino compatible interface
+- Onboard omnidirectional I2S digital output MEMS Microphone
+- 24P 0.5mm FPC connector for DVP Camera
+- 8bit MCU LCD 24P 0.5mm FPC connector
+- Machine vision based on convolutional neural network
+- Support self-elastic micro SD card holder
+- Reset and boot button; 3W DAC+PA Audio output
+- Connect the USB Type-C cable to complete the download
+- High-performance microphone array processor for machine hearing
+- Support MaixPy IDE, Arduino IDE, OpenMV IDE, and PlatformIO IDE
+- Support Tiny-Yolo, Mobilenet and TensorFlow Lite for deep learning
+
+MaixPy ported MicroPython to K210 (a 64-bit dual-core RISC-V CPU with hardware FPU and convolution accelerator). A project that supports MCU routine operations and integrates machine vision and microphone arrays to quickly develop intelligent applications in the AIOT field that are extremely cost effective and practical.
+MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.
+MicroPython makes programming on K210 hardware easier, the code is open source and can be found here.
+Maixpy is a scripting language that is completely usable without the need for an IDE. This IDE is for make it easier to view images, pick colors, send files, etc on a computer. The Maixpy IDE is derived from the OpenMV IDE. Because the K210 does not support USB, it uses serial communication instead, so using Maixpy IDE will reduce the frame rate, or if you encounter other problems, please try to use the serial terminal instead.
+MaixPy devices have an internal file system which can access both internal and external memories. During boot, the device will mount any external memory cards formatted with either SPIFFS or FAT file systems, and add them to the internal file system as the /flash or /sd directories respectively. SPIFFS cards are by default assigned to 3MB SPIFFS (starting at flash address 0xD00000). When detected at boot, SPIFFS devices automatically appear as the /flash directory within the device's internal file system. Currently the SPIFFS implementation in MaixPy does not support the creation of directories. FAT formatted SD (TF) cards are supported, but FAT32 or exFAT formatted cards are not currently supported. When detected at boot, FAT formatted cards will be automatically mounted and appear as the /sd directory in the device's internal file system. It should be noted that the root directory is only used to mount the SD card or SPIFFS flash card. All other file operations happen in the /flash or /sd directories, as determined by the format of the memory card discovered at boot time.
+If a memory card formatted with either a SPIFFS or FAT file system is detected at boot, MaixPy will look for a boot.py file in the root directory of that memory card. If /boot.py is found, the system will immediately execute it. If the /boot.py file is not found, the device will automatically create one on the memory card that offers a basic REPL command line interface. Edit the contents of the /boot.py file on the memory card to determine what the device does when it is reset or rebooted. FAT memory cards will have a mount point of /sd, while SPIFFS cards will appear as /flash.
+Understanding the Sipeed Maixduino board
+You can read more about it here.
