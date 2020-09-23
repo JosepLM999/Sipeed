@@ -11,6 +11,7 @@ Información relacionada con el desarrollo de las placas Maix
 - Foro: https://en.bbs.sipeed.com/top/yearly
 TUTORIALS
 - Tutorial: Run Yolo2 on Sipeed Maix Bit :https://courses.cs.washington.edu/courses/cse475/19au/labs/yolo2_tutorial.html
+- Image Recognition With K210 Boards and Arduino IDE/Micropython: https://www.instructables.com/id/Transfer-Learning-With-Sipeed-MaiX-and-Arduino-IDE/
 
 # Entornos de trabajo IDE
 - MaixPy documentation: https://maixpy.sipeed.com/en/
